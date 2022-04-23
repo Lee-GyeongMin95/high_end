@@ -1,4 +1,4 @@
-assengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt,ShoppingMall,Spa,VRDeck,Name
+PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt,ShoppingMall,Spa,VRDeck,Name
 0013_01,Earth,TRUE,G/3/S,TRAPPIST-1e,27,FALSE,0,0,0,0,0,Nelly Carsoning
 0018_01,Earth,FALSE,F/4/S,TRAPPIST-1e,19,FALSE,0,9,0,2823,0,Lerome Peckers
 0019_01,Europa,TRUE,C/0/S,55 Cancri e,31,FALSE,0,0,0,0,0,Sabih Unhearfus
